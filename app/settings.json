@@ -1,0 +1,12 @@
+{
+  "token": "OTE2NjAzMjU4NTI3Njk5MDQ0.YasjTg.ojGAPz_WSWpJx_KG_4b9Eg6Hquc",
+  "prefix" : "!",
+  "owner" : ["906992011456954410","",""],
+  "clientid" : "916603258527699044",
+  "clientsecret" : "0Nt_FrrfX7cdMgtpoVRh25Rbcy15qvQl",
+  "clientcallback" : "https://elwybotlist.glitch.me/callback",
+  "mongoURL" : "mongodb+srv://lykias:<caganemre41>@cluster0.y8vpv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "serverID": "916606310156468225",
+  "footer": "Elwy Botlist © Tüm Hakları Saklıdır.",
+  "tags": ["Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}
